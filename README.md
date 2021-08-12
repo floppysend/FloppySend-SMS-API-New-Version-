@@ -45,6 +45,8 @@ You can get your X-Api-Key And X-Secret-Hash from your [account setting](https:/
 
 #### SMS API Code Sample
 
+You need to add your "X-Secret-Hash" in the header if you have one.
+
 ```PHP
 //PHP
 
