@@ -1,4 +1,4 @@
-### FloppySend SMS API ( New Version )
+## FloppySend SMS API ( New Version )
 
 FloppySend's SMS API is well-defined software interface which enables code to send short messages via a SMS Gateway. Use our simple SMS APIs to integrate SMS text messaging with your already existing business applications and systems. 
 
